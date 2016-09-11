@@ -1,0 +1,10 @@
+name: Rent_leaflet
+account: kirk760099
+server: shinyapps.io
+appId: 122955
+bundleId: 544655
+url: https://kirk760099.shinyapps.io/Rent_leaflet/
+when: 1472577167.32158
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: cafe85.csv|cosmed.csv|k_means.R|mrt.csv|post.csv|rent_dist.csv|rent_dist_old.csv|star.csv|TCs.Rda
